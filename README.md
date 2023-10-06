@@ -8,7 +8,7 @@
 <h2>Descrição do projeto</h2>
 
 <p>Esse projeto foi desenvolvido com o foco de colocar em prática o conteúdo atual que está sendo estudado (responsividade), além de adquirir experiência com com HTML e CSS. A idéia foi retirada do curso Serliv.</p>
-<br><p>:iphone: <b>Funcionalidade 1</b>: O site tem uma responsividade satisfatória para qualquer dispotivo (mobile, tablet e desktop).</p> <br><br>
+<br><p>:iphone: <b>Funcionalidade 1</b>: O site tem uma responsividade satisfatória para qualquer dispositivo (mobile, tablet e desktop).</p> <br><br>
 
 
 
